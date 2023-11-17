@@ -1,7 +1,7 @@
 
 
-import { vec2, dot, add, sub, length } from '/src/vec2.js'
-import { map } from '/src/num.js'
+import { vec2, dot, add, sub, length } from './src/vec2.js'
+import { map } from './src/num.js'
 
 
 export const settings = { 
